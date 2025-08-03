@@ -98,6 +98,6 @@ Faça as modificações e commit (git commit -am 'Adiciona feature X').
 Envie a pull request para o repositório original.
 
 👨‍💻 Desenvolvedor
-Nome: [Seu Nome]
+Nome: Kennedy S. Amorim
 
-GitHub: seu-usuario
+GitHub: kennedy2910
