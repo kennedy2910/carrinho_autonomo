@@ -82,6 +82,7 @@ python raspi_server.py
 ![Detalhes](./fotos/IMG_0147.jpg)
 ![Visao de cima](./fotos/IMG_0148.jpg)
 ![O carrinho](./fotos/O%20carrinho.png)
+![O carrinho](./fotos/IMG_20250706_203533.jpg)
 
 Adicione aqui imagens do projeto em funcionamento ou diagramas do sistema, como o layout do carrinho, a conexão dos componentes, ou o fluxo de processamento da IA.
 
