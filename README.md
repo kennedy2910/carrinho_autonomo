@@ -1,5 +1,5 @@
 # Carrinho Autônomo
-<!-- Se tiver uma imagem do carrinho, adicione aqui -->
+![O carrinho](./fotos/O%20carrinho.png)
 
 Este projeto tem como objetivo desenvolver um carrinho autônomo que pode ser controlado remotamente via joystick e também realizar navegação autônoma utilizando visão computacional e IA.
 
@@ -77,6 +77,12 @@ bash
 Copiar
 python raspi_server.py
 📸 Imagens
+
+![Visao Geral](./fotos/IMG_0146.jpg)
+![Detalhes](./fotos/IMG_0147.jpg)
+![Visao de cima](./fotos/IMG_0148.jpg)
+![O carrinho](./fotos/O%20carrinho.png)
+
 Adicione aqui imagens do projeto em funcionamento ou diagramas do sistema, como o layout do carrinho, a conexão dos componentes, ou o fluxo de processamento da IA.
 
 ## 🚀 Melhorias Futuras

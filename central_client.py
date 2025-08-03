@@ -9,7 +9,6 @@ pygame).  Joystick values are translated into car control commands and
 sent as JSON messages over the TCP connection.  A background thread
 receives JPEG‑encoded video frames via UDP, decodes them with OpenCV
 and displays them in a simple window.
-
 The Keyestudio Smart Car documentation suggests using TCP for control
 commands and UDP for video streaming【170506542320415†L50-L55】.  Control commands
 must be reliable and ordered, whereas video frames are tolerant of
